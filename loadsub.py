@@ -24,7 +24,7 @@ async def on_ready():
     ██████╔╝╚██████╔╝   ██║   
     ╚═════╝  ╚═════╝    ╚═╝   
                           
-            By 2$py#5340
+            By Neoxytz_
 
     """)
     print(f"Connecté à : {bot.user.name}")
