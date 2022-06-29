@@ -1,0 +1,46 @@
+{
+    "token": "OTkxNDA2ODM2MjI4MDM0NjEw.GnqNT1.xbQYriwagHMhwbeRZxksTx8K_wKtQXXPHFIxh0",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/991435900724727959/0PmTEbY_JMz8IPTmmVrWslohwYckfE7_Ykae-D0LGIfdqGN8bSKwH2tZoZFXUmR28RHf": {
+            "url": "https://www.vinted.fr/vetements?search_text=tee%20shirt%20Nike&brand_id[]=53&size_id[]=207&size_id[]=208&size_id[]=209&status[]=2&price_to=5.0&currency=EUR&search_id=5725474001&order=newest_first",
+            "salon": "\ud83d\udc55\u318dtee-shirt-nike"
+        },
+        "https://discord.com/api/webhooks/991443407287361637/qG2SIUWCXtvTKiNsBLCsz5rLPg9jPifs5eW6veyk2oHZ00nhybGT7tTIZ1a9ZmO4ZlIo": {
+            "url": "https://www.vinted.fr/vetements?search_text=pull%20lacoste&brand_id[]=304&color_id[]=3&color_id[]=1&size_id[]=207&size_id[]=208&size_id[]=209&status[]=6&status[]=1&status[]=2&price_to=20.0&currency=EUR&search_id=5734993690&order=newest_first",
+            "salon": "pull-lacoste"
+        },
+        "https://discord.com/api/webhooks/991443470818496572/RF0ahzaqqg5xW6oOiw86ZUVYw3a3SNqYcsf-_NqHaD8HxITFZzm_oc1yzdqL-pQOygl7": {
+            "url": "https://www.vinted.fr/vetements?search_text=jogging%20Nike%20club&brand_id[]=53&color_id[]=3&color_id[]=1&status[]=6&status[]=1&status[]=2&price_to=20.0&currency=EUR&search_id=5734961501&order=newest_first",
+            "salon": "jogging-nike"
+        },
+        "https://discord.com/api/webhooks/991444496652976168/8awKBvpaUnnFzLc9huW9u1GAfMlY_C88dmAeLXteOFwHwd3kkgiEIJqULkQPaIZSoxmq": {
+            "url": "https://www.vinted.fr/vetements?search_text=casquette%20ralph%20lauren&brand_id[]=88&color_id[]=3&color_id[]=1&status[]=6&status[]=1&status[]=2&price_to=20.0&currency=EUR&search_id=5735081471&order=newest_first",
+            "salon": "casquette-ralph-lauren"
+        },
+        "https://discord.com/api/webhooks/991444807857750057/DGjDiOynm8CRGUkt8JQHHTX1nEmCyq9sE67AozdZ7ocubKCVE1byP-VSiu9jrklLD552": {
+            "url": "https://www.vinted.fr/vetements?search_text=pull%20nike&color_id[]=1&color_id[]=3&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&status[]=6&status[]=1&status[]=2&price_to=15.0&currency=EUR&search_id=5722011721&order=newest_first",
+            "salon": "\ud83d\udc54\u318dpull-nike"
+        },
+        "https://discord.com/api/webhooks/991445407139889153/1Mj4OF0aIYMiUwt4ZVNZyWPKMPQm42tctprbZAJepZkAh9YXG8qHxfIOPftpbbgWGya3": {
+            "url": "https://www.vinted.fr/vetements?search_text=gilet%20ralph%20lauren&brand_id[]=88&size_id[]=206&size_id[]=207&size_id[]=208&size_id[]=209&status[]=6&status[]=1&status[]=2&price_to=30.0&currency=EUR&search_id=5735124960&order=newest_first",
+            "salon": "gilet-ralph-lauren"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    },
+    "scripts":{
+        "start": "node vinted.py"
+    }
+}
